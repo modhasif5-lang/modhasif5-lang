@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohd Asif 👋</h1>
+<h1 align="center">Hi, I'm Mohd Asif </h1>
 <h3 align="center">AI & Data Science Enthusiast</h3>
 
 I'm an M.Sc. Data Science student with a strong foundation in statistics, SQL, and Python. I turn raw data into clear, actionable insights — analyzing datasets, identifying trends, and presenting findings that support business decisions. I work across the full analytics pipeline, from cleaning data to building dashboards and communicating results to stakeholders.
