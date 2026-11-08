@@ -1,37 +1,66 @@
-<h1 align="center">Hi, I'm Mohd Asif </h1>
-<h3 align="center">AI & Data Science Enthusiast</h3>
+# Hi, I'm Mohd Asif 👋
 
-I'm an M.Sc. Data Science student with a strong foundation in statistics, SQL, and Python. I turn raw data into clear, actionable insights — analyzing datasets, identifying trends, and presenting findings that support business decisions. I work across the full analytics pipeline, from cleaning data to building dashboards and communicating results to stakeholders.
+<h3 align="center">M.Sc. Data Science Student | AI & Machine Learning Enthusiast</h3>
 
-- 🌍 Based in Gorakhpur, India
-- 🖥️ Portfolio: [LinkedIn](https://www.linkedin.com/in/mohdasif-1772453850905516027298167483341)
-- ✉️ Reach me at [modhasif5@gmail.com](mailto:modhasif5@gmail.com)
-- 🧠 Currently learning Cloud Computing, Reinforcement Learning, and Data Mining
+I'm currently pursuing an **M.Sc. in Data Science at IIIT Lucknow**, with a strong foundation in mathematics, statistics, programming, and machine learning.
 
-### 🛠️ Skills & Tools
+I enjoy building practical solutions using data science, machine learning, and AI. My interests span the complete development lifecycle — from data collection, preprocessing, and exploratory data analysis to developing predictive models, building APIs, and deploying applications.
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Python" title="Python" width="40" height="40" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="C" title="C" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Git" title="Git" width="40" height="40" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="GNU Bash" title="GNU Bash" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="HTML5" title="HTML5" width="40" height="40" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Fast API" title="Fast API" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="MySQL" title="MySQL" width="40" height="40" /></a>
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Heroku" title="Heroku" width="40" height="40" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Linux" title="Linux" width="40" height="40" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="TensorFlow" title="TensorFlow" width="40" height="40" /></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="PyTorch" title="PyTorch" width="40" height="40" /></a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://gstatic.com" alt="Hugging Face" title="Hugging Face" width="40" height="40" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Docker" title="Docker" width="40" height="40" /></a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Kubernetes" title="Kubernetes" width="40" height="40" /></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Amazon Web Services" title="Amazon Web Services" width="40" height="40" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" alt="Django" title="Django" width="40" height="40" /></a>
-</p>
+I'm particularly interested in **Machine Learning, Deep Learning, Generative AI, and AI-driven applications**, and I enjoy exploring how these technologies can solve real-world problems.
 
-### 🌐 Connect with Me
+- 🌍 **Location:** Gorakhpur, India
+- 🎓 **Education:** M.Sc. Data Science, IIIT Lucknow (2025–2027)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohdasif-1772453850905516027298167483341)
+- ✉️ **Email:** [modhasif5@gmail.com](mailto:modhasif5@gmail.com)
+- 🧠 **Currently exploring:** Reinforcement Learning, Cloud Computing, Data Mining, and Generative AI
+
+---
+
+### 🛠️ Technical Skills
+
+**Programming Languages & Databases**
 
 <p align="left">
-  <a href="https://www.github.com/modhasif5-lang/" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" width="35" height="35" alt="GitHub" title="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/mohdasif-1772453850905516027298167483341" target="_blank" rel="noreferrer"><img src="https://jsdelivr.net" width="35" height="35" alt="LinkedIn" title="LinkedIn" /></a>
+<img src="https://skillicons.dev/icons?i=python,c,sql,mysql,postgres" />
 </p>
+
+**Machine Learning & AI**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+Machine Learning, Deep Learning, Scikit-learn, XGBoost, LightGBM, NLP, RAG, and Generative AI.
+
+**Backend & Development**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,django,html,git,github,docker" />
+</p>
+
+**Cloud & Infrastructure**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,bash,aws,kubernetes,nginx" />
+</p>
+
+---
+
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/modhasif5-lang" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/mohdasif-1772453850905516027298167483341" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+</a>
+<a href="mailto:modhasif5@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="40" />
+</a>
+</p>
+
+---
+
+*Always learning, building, and experimenting with new technologies.* 🚀
